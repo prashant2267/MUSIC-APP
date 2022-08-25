@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dj.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\dj.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_previous.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\previous.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\next.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\p.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_d.jpg.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\d.jpg"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_song.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\layout\\activity_play_song.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_r.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\r.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mi5.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable-v24\\mi5.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\c++\\isangeet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.xml.flat",
+        "source": "C:\\c++\\isangeet\\app\\src\\main\\res\\drawable\\play.xml"
+    }
+]
